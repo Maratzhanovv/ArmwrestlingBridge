@@ -2,16 +2,16 @@
 
 This project demonstrates the Bridge Design Pattern in Java.
 
-## Abstraction
+# Abstraction
 - Armwrestler
 - AmateurArmwrestler
 - ProfessionalArmwrestler
 
-## Implementor
+# Implementor
 - TechniqueStyle
 - TopRollTechnique
 - HookTechnique
 - PressTechnique
 
-## Pattern idea
+# Pattern idea
 Armwrestler types and armwrestling techniques can change independently.
